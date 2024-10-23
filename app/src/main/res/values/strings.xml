@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Internship June</string>
+    <string name="login_here">Login here</string>
+    <string name="welcome_back">Welcome back you\'ve\nbeen missed!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">create new account</string>
+
+    <string name="create_account_title">Create Account</string>
+    <string name="create_account_desc">Create an account so you can explore all the existing jobs</string>
+    <string name="name">Name</string>
+    <string name="contact_no">Contact No.</string>
+
+    <string name="signup">Sign up</string>
+    <string name="already_account">Already have an account</string>
+
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="submit">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom_nav_demo">BottomNavDemoActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_nav_demo">NavDemoActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>
